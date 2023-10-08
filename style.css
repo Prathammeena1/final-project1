@@ -412,7 +412,7 @@ body {
 
 #page3Pt2 > h1,
 #page7Pt2 > h1 {
-  font-family: "ManukaR";
+  font-family: "manukaR";
   color: #191405;
   position: absolute;
   font-weight: 100;
@@ -424,7 +424,7 @@ body {
 
 #page3Pt2 > h1 > span,
 #page7Pt2 > h1 > span {
-  font-family: "ManukaB";
+  font-family: "manukaB";
   font-weight: 900;
 }
 
@@ -569,7 +569,7 @@ body {
   border-bottom: 1px solid white;
 }
 .page5Elem > h1 {
-  font-family: "manuka";
+  font-family: "manukaB";
   text-transform: uppercase;
   font-size: 7vw;
   font-weight: 900;
@@ -603,7 +603,7 @@ body {
 }
 
 #page6 h1 {
-  font-family: "manuka";
+  font-family: "manukaB";
   font-weight: 100;
   font-size: 12vw;
   line-height: 0.9;
@@ -1523,7 +1523,7 @@ body {
 }
 
 #page6 h1 {
-  font-family: "manuka";
+  font-family: "manukaB";
   font-size: 22vw;
   margin: 1vw 5vw;
   margin-top: 12vw;
