@@ -6,6 +6,12 @@
   font-family: "manukaR";
   src: url(font/manuka-regular.ttf);
 }
+@font-face {
+  font-family: "montserrat";
+  src: url(font/Montserrat-Light.ttf);
+}
+
+
 
 * {
   margin: 0;
@@ -21,7 +27,7 @@ html,
 body {
   height: 100%;
   width: 100%;
-  font-family: montserrat;
+  font-family: "montserrat";
   position: relative;
   z-index: -99;
 }

@@ -975,9 +975,16 @@ function page4Anime() {
   },"a").to("#navRight span",{
     color:"white"
   },"a")
-  .from(".page4-heading",{
+  gsap.from(".page4-heading",{
     transform:"translateY(100%)",
-    opacity:0
+    opacity:0,
+    scrollTrigger: {
+      scroller: "#main",
+      trigger: "#page4",
+      start: "top 50%",
+      end:"top 0",
+      scrub:true
+    },
   })
 }
 
